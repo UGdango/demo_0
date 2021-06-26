@@ -1,1 +1,2 @@
-"del one line!" 
+del one line!
+del second line!
